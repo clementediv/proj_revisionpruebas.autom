@@ -1,14 +1,2 @@
-ESTADO DEL ARTE EN LA PROGRAMACION;
-
-
-1.- SCRATCH MIT: permite el primcer acercamiento a la programacion sea más didáctico, se trabaja con multi entradas, de programacion visual
-el desarrollo es mucho más didáctico, permite programar de manera virtual o local.
-
-2.- MIT APP INVENTOR: es una web que permite crear aplicaciones a partir de programacion visual
-permitiendo trabajar en forma colaborativa.
-
-3.- resuelva el siuguiente problema utilizando inteligencia artificial:
-
-dame un prgrma que mustre todos aquellos triangulos o rectangulos de lados enteros cuyo perimetro sea menor que 100, 
-en c++, en java y en python, hasked, con el paradigma imperativo, funcional y de objeto.
+README & LICENCE IN PROGRESS...
 
